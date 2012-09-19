@@ -5305,7 +5305,7 @@ body {
 .login-placeholder a {
   color: #FFFFFF;
   font-size: 18px;
-  font-family: proxima_nova_rgbold, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 500;
   text-transform: uppercase;
   letter-spacing: 0.05em;
 }
