@@ -174,8 +174,8 @@ body {
   font-family: proxima_nova_rgregular, "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 14px;
   line-height: 20px;
-  color: #333333;
-  background-color: #f3f3f3;
+  color: #ffffff;
+  background-color: #6ac08c;
 }
 a {
   color: #0088cc;
@@ -1294,7 +1294,7 @@ select:focus:required:invalid:focus {
 }
 .help-block,
 .help-inline {
-  color: #595959;
+  color: #ffffff;
 }
 .help-block {
   display: block;
@@ -5283,9 +5283,6 @@ a.badge:hover {
   display: inline;
   padding: 0 10px;
   color: rgba(255, 255, 255, 0.25);
-}
-.body {
-  background-color: #6ac08c!important;
 }
 .single-page {
   overflow: hidden;
