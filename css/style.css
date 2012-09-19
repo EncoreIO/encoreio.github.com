@@ -5294,6 +5294,7 @@ a.badge:hover {
   height: 40px;
   padding: 3px;
   width: 100px;
+  *z-index: 10;
 }
 .brand {
   font-family: proxima_nova_rgbold, "Helvetica Neue", Helvetica, Arial, sans-serif;
