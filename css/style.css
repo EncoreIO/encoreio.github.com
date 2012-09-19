@@ -5340,8 +5340,9 @@ body {
 }
 #follow-handle {
   color: #ffea8d;
-  opacity: 0.8;
+  opacity: 0.9;
 }
 #follow-handle:hover {
   opacity: 1.0;
+  text-decoration: none;
 }
