@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Zakullah Khan Mohammed -- Founder -- @khan_io
 
 # THANKS
 
