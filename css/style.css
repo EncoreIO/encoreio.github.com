@@ -5341,6 +5341,8 @@ body {
 #follow-handle {
   color: #ffea8d;
   opacity: 0.9;
+  font-weight: bold;
+  text-transform: uppercase;
 }
 #follow-handle:hover {
   opacity: 1.0;
