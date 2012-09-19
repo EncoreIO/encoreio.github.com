@@ -5293,7 +5293,7 @@ a.badge:hover {
   background-color: #ffcc00;
   height: 30px;
   padding: 3px;
-  width: 40px;
+  width: 100px;
 }
 .brand {
   font-family: proxima_nova_rgbold, "Helvetica Neue", Helvetica, Arial, sans-serif;
