@@ -5284,6 +5284,9 @@ a.badge:hover {
   padding: 0 10px;
   color: rgba(255, 255, 255, 0.25);
 }
+body {
+  *z-index: 1!important;
+}
 .single-page {
   overflow: hidden;
 }
