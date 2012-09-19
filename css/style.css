@@ -5287,6 +5287,13 @@ a.badge:hover {
 .single-page {
   overflow: hidden;
 }
+.login-placeholder {
+  position: relative;
+  top: 0px;
+  background-color: #ffcc00;
+  height: 50px;
+  padding: 10px;
+}
 .brand {
   font-family: proxima_nova_rgbold, "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #FFFFFF;
@@ -5298,78 +5305,10 @@ a.badge:hover {
   font-weight: 600;
   letter-spacing: 0.07em;
 }
-.mkt-assert {
-  font-size: 40px;
-  line-height: 42px;
-  font-family: proxima_nova_rgbold, "Helvetica Neue", Helvetica, Arial, sans-serif;
-}
-.mkt-assert-txt {
-  font-family: proxima_nova_rgregular, "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 18px;
-  font-weight: 300;
-  letter-spacing: 0.03em;
-}
-.index-wrapper {
-  margin: 60px 0px 25px 0px;
-  z-index: 4;
-  position: relative;
-}
-.index-wrapper-inner {
-  background-color: #FFFFFF;
-  -webkit-box-shadow: 0 3px 3px rgba(185, 185, 185, 0.45);
-  -moz-box-shadow: 0 3px 3px rgba(185, 185, 185, 0.45);
-  box-shadow: 0 3px 3px rgba(185, 185, 185, 0.45);
-  padding: 45px 35px 35px 35px;
-  height: 100%;
-}
-.mkt-block-txt {
-  padding-left: 20px;
-  padding-top: 0px;
-}
-.mkt-block-txt h3 {
-  margin-top: 0px;
-}
-.page-header-wrapper {
-  height: 40px;
-  position: relative;
-  padding: 40px 0;
-  color: #fff;
-  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.4), 0 0 30px rgba(0, 0, 0, 0.075);
-  background: #6ac08c;
-  /* Old browsers */
-
-  filter: progid:dximagetransform.microsoft.gradient(startColorstr='#6ac08c', endColorstr='#6ac08c', GradientType=1);
-  /* IE6-9 fallback on horizontal gradient */
-
-}
-.page-header-span ul {
-  margin-top: 3px;
-}
-.page-header-span li {
-  margin-left: 10px;
-}
-.page-header-span a {
-  font-size: 12px;
-  color: #585e6b;
-  letter-spacing: 0.05em!important;
-  text-transform: uppercase!important;
-}
-.nav-pills > .active > a,
-.nav-pills > .active > a:hover {
-  color: white;
-  background-color: #6ac08c;
-}
 .wrapper {
-  margin: -75px 0px 25px 0px;
+  margin: 120px 0px 25px 0px;
   z-index: 10;
   position: relative;
-}
-.wrapper-inner {
-  background-color: #FFFFFF;
-  -webkit-box-shadow: 0 3px 3px rgba(185, 185, 185, 0.45);
-  -moz-box-shadow: 0 3px 3px rgba(185, 185, 185, 0.45);
-  box-shadow: 0 3px 3px rgba(185, 185, 185, 0.45);
-  padding: 15px 35px 35px 35px;
 }
 .wrapper-inner h3 {
   margin-top: 10px;
@@ -5378,29 +5317,4 @@ a.badge:hover {
 .wrapper-inner h4 {
   margin-top: 0px;
   text-transform: uppercase;
-}
-footer {
-  margin-top: 30px;
-  color: #363a42;
-  text-transform: uppercase;
-  font-size: 10px;
-  font-family: proxima_nova_rgbold, 'Helvetica Neue', Arial, sans-serif;
-  letter-spacing: 0.1em;
-  opacity: .6;
-}
-footer .pull-right {
-  text-align: right;
-}
-footer a {
-  color: #363a42;
-}
-footer a:hover {
-  opacity: 1.0;
-  text-decoration: none;
-}
-.social-links i {
-  color: #6ac08c;
-}
-.social-links a:hover {
-  text-decoration: none;
 }
