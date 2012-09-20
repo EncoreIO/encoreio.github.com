@@ -3,7 +3,10 @@
 
 # TEAM
 
-    Zakullah Khan Mohammed -- Founder -- @khan_io
+    Founder: Zakullah Khan Mohammed 
+    Contact: mkhan [at] encore.io
+    Twitter: @khan_io
+    From: Singapore, Singapore
 
 # THANKS
 
@@ -13,3 +16,10 @@
 
     HTML5, CSS3
     jQuery, Modernizr
+
+
+/* SITE */
+	Last update:2012/09/20
+	Language: English
+	Doctype:HTML5
+	IDE: Sublime Text, Smaller, Photoshop
